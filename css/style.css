@@ -1,0 +1,25 @@
+*{margin:0;padding:0}
+
+.rainbowText{
+background: linear-gradient(to right,#e60000,#f39800,#fff100,#009944,#0068b7,#1d2088,#920783);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+display:inline-block;
+}
+
+#white{color:#FFFFFF}
+#silver{color:#C0C0C0}
+#gray{color:#808080}
+#black{color:#000000}
+#red{color:#FF0000}
+#brown{color:#800000}
+#yellow{color:#FFFF00}
+#olive{color:#808000}
+#lime{color:#00FF00}
+#green{color:#008000}
+#aqua{color:#00FFFF}
+#teal{color:#008080}
+#blue{color:#0000FF}
+#navy{color:#000080}
+#fuchsia{color:#FF00FF}
+#purple{color:#800080}
